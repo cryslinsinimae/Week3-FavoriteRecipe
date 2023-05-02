@@ -15,7 +15,7 @@ body {
 
 .img {
     text-align: center;
-    scale: 1,0;
+    scale: 1,5;
 }
 
 .heading2 {
@@ -37,5 +37,5 @@ color: rgba(240, 143, 45, 0.784);
 }
 
 .footer {
-    text-align: center;
+    text-align: center ;
 }
